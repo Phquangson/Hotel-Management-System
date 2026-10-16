@@ -1,0 +1,20 @@
+{
+    "phong": [
+        {
+            "loai": "Thường",
+            "ma_phong": "102",
+            "ten_phong": "Bibeo",
+            "gia_co_ban": 100000.0,
+            "trang_thai": "Trống"
+        }
+    ],
+    "phieu_thue": [],
+    "lich_su": [
+        {
+            "ma_phong": "102",
+            "ten_khach": "Sơn",
+            "so_ngay": 3,
+            "tong_tien": 300000.0
+        }
+    ]
+}
